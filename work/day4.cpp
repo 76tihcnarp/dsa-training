@@ -1,14 +1,3 @@
-//accumulate
-//accumulate(InputIterator first, InputIterator last, T init);
-
-// array sort
-
-//sort(arr_name,arr_name + length , comp_func)
-
-//ascending:
-//sort(arr_name,arr_name + length , less<int>());
-//descending:
-//sort(arr_name,arr_name + length , greater<int>());
 
 #include <bits/stdc++.h>
 using namespace std;

@@ -25,8 +25,3 @@ int main(){
     }
 }
 
-// counting in vector;
-// int freq = count( vec1.begin(),vec1.end(),element);
-
-//removing element
-// v.erase( v.begin() + index) ;

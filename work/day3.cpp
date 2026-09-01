@@ -25,7 +25,6 @@ using namespace std;
    
 //    }
 
-   //v.insert(v.begin()+index , val)
 
 int main(){
     vector <int> v1={10,20,30,40,50};
