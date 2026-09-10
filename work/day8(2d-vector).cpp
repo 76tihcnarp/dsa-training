@@ -19,5 +19,19 @@
    // str.insert (index , str/char);
 
    //count(text.begin(), text.end(), 'a');
+// string newstr = str.subtstr(start_index,length);
 
+
+//  reverse ( str.begin(),str.end());
+
+// #right rotation
+// string rr_s=s.substr(n-k,k)+s.substr(0,n-k);
+
+// #left rotation
+// string lr_s=s.substr(k,n-k)+s.substr(0,k);
    
+//char is letter
+// bool res= isalpha(ch);
+
+//char is digit
+// bool res= isdigit(ch);
